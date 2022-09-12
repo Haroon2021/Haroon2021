@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    <h3 align="left"> - </h3>
+    <h3 align="left"> - 🔭 I am looking for a role as a Software Developer </h3>
     <h3 align="left"> - 🌱 I am a keen learner and have learnt about the following from the Makers bootcamp: </h3>
     <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg" height="40" width="40">
