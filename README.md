@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div>
     <h3 align="left"> - 🔭 I am looking for a role as a Software Developer </h3>
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 height="40" width="40"> 
     </p>
    </div>
+-->
